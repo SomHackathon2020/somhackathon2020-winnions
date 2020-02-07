@@ -1,1 +1,1 @@
-WINNIONS
+Som Hackathon 2020 - WINNIONS
