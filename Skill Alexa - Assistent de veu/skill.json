@@ -1,0 +1,48 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "es-ES": {
+          "summary": "Pequeña Skill para demostrar la potencia que ofrecen las skills de Alexa. Funciona como guía para la presentación que hemos prearado para la Hackathon de Mataró",
+          "examplePhrases": [
+            "Alexa como inicio la presentación",
+            "Qué más puedo hacer",
+            "Vamos a venderlo"
+          ],
+          "keywords": [
+            "presentation",
+            "hackathon",
+            "winnions"
+          ],
+          "name": "PresentacionWinnions",
+          "smallIconUri": "file://assets/images/es-ES_smallIconUri.png",
+          "description": "Skill programada por unos alumnos del CFGS de programación, para el evento SOMHackathon de Mataró.\nSu función es servir de guía para el presentador del proyecto, así como una muestra de una de las muchas utilidades que se podrían implantar.",
+          "largeIconUri": "file://assets/images/es-ES_largeIconUri.png"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Como inicio la presentación, como funcionas, que mas puedo hacer",
+      "category": "EDUCATION_AND_REFERENCE",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:864474200696:function:5e5b89ed-11d2-4f04-8ca4-fb69c83db233:Release_0"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "es-ES": {}
+      },
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}
