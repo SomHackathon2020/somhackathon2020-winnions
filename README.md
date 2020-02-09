@@ -2,7 +2,7 @@
 
 
 Aquí penjem el codi que hem desenvolupat durant la Hackathon.
-El nostre projecta s'anomena **BeM@anual**, i consisteix en un sistema innovador de manuals web.
+El nostre projecte s'anomena **BeM@anual**, i consisteix en un sistema innovador de manuals web.
 
 Aquí trobareu tres aspectes principals:
 
