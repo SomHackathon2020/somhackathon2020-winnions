@@ -1,0 +1,58 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "como inicio la presentación",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+            "puedes parar ya",
+            "ya no me haces falta",
+            "apágate "
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+            "cómo puedes ayudarme",
+            "como puedes ayudarme",
+            "cómo funcionas",
+            "como funcionas",
+            "ayúdame",
+            "como funciona",
+            "cómo funciona"
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": [
+            "gracias por ayudarme"
+          ]
+        },
+        {
+          "name": "QueMasIntent",
+          "slots": [],
+          "samples": [
+            "puedo hacer",
+            "que mas puedo hacer",
+            "qué más puedo hacer"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "VentaIntent",
+          "slots": [],
+          "samples": [
+            "a venderlo",
+            "Vamos a venderlo"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "9"
+}
